@@ -23,14 +23,9 @@ Requirement Mapping-
 |  5 |          Precision should be high and speed should be in picoseconds
 |  6 |            The functions should be selected and should produce correct output. |
 Low level requirements-
-ID
-Description
-1
-Symbols like +,-,*,/ to carry out simple addition, substraction,multiplication and division to operations.
-2
-Must accept numbers from 0 to 9.
-3
-Calculator must be included with different calculation switching modes.
+1           Symbols like +,-,*,/ to carry out simple addition, substraction,multiplication and division to operations.
+2           Must accept numbers from 0 to 9.
+3           Calculator must be included with different calculation switching modes.
 
                                                 Table : High and Low Level Requirements.
 
